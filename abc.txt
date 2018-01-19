@@ -1,0 +1,2 @@
+Hello All,
+This is a text document for my first git practice
